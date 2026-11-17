@@ -62,6 +62,15 @@ The repository includes the following visualizations:
 
 Academic bioinformatics project. Results, figures, and documentation are being organized and reviewed.
 
+## Visual Results
+
+1. Volcano Plot
+
+2. Gene Ontology Enrichment
+
+3. KEGG Pathway Enrichment
+
+
 ## Author
 
 Bioinformatics Student
